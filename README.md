@@ -1,22 +1,43 @@
-# 👋 Hi, I'm Adetola Abdulkareem Ayomide
+# 👋 Hi there, I'm Adetola Abdulkareem Ayomide
 
-🎓 I'm a software engineering student at Aptech, passionate about building clean, user-friendly front-end experiences.  
-💻 Currently diving into back-end development with **Java, C#, Python, and Dart**.  
-🌱 I’m constantly learning and building — check out my recent projects below!
-
-## 🛠️ Tech Stack
-- **Front-End:** HTML, CSS, JavaScript  
-- **Back-End (Learning):** Python, Java, C#, Dart  
-- **Tools:** Git, GitHub, VS Code
-
-## 📂 Projects
-- [TechWiz HomeStyler](link-to-repo) – Responsive home styling web app  
-- [Chic Lighting](link-to-repo) – Modern website for a fictional lighting brand  
-
-## 📫 Let's Connect
-- Email: adetolaabdulkareemayomide@gmail.com  
-- GitHub: [SznImperial](https://github.com/SznImperial)
+🎓 A passionate Software Engineering student at Aptech  
+💻 Front-End Developer currently expanding into Back-End development  
+🌍 Based in Lagos Mainland, Nigeria  
+📚 Currently learning: Java, C#, Python, Dart
 
 ---
 
-_Always learning. Always building._
+## 🛠 Tech Stack
+- **Front-End:** HTML, CSS, JavaScript  
+- **Back-End (Learning):** Python, Java, C#, Dart  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+
+---
+
+## 💡 Projects
+
+### 🏠 TechWiz HomeStyler *(Team Project)*
+Built parts of a responsive home styling website using HTML, CSS, and JavaScript.  
+Collaborated in person with teammates on layout, interactivity, and design.
+
+### 💡 Chic Lighting *(Team Project)*
+Helped develop the user interface and responsive layout for a fictional lighting company site.  
+Worked with a team to improve design and user experience during physical development sessions.
+
+---
+
+## 📈 What I’m Working On
+- Building solo front-end and full-stack projects
+- Improving my Git & GitHub workflow
+- Practicing back-end logic and API integration
+
+---
+
+## 📫 Get in Touch
+- 📧 Email: adetolaabdulkareemayomide@gmail.com  
+- 🔗 GitHub: [SznImperial](https://github.com/SznImperial)
+
+---
+
+_“Code is the closest thing we have to magic.”_
+
